@@ -3,7 +3,7 @@
     "id": "979872911720",
     "restype": "watchface",
     "name": "EVA BATTERY",
-    "description": "EVA BATTERY_活动限界_橙黑警示\nEVA 里那块内部电池倒计时, 拿来看时间, 顺带电量心率, 自取.\n目前支持小米手环 10 / 11\n想看动态效果、AOD 和使用方法, 可以移步小红书 @叫我Brin就好",
+    "description": "EVA BATTERY_活动限界_橙黑警示\n\nEVA 里那块内部电池倒计时, 拿来看时间, 顺带电量心率, 无版权, 社区客制版本.\n字体全量替换, 颜色偏移RGB各1, 可能? 不定期下架. \n\n目前支持小米手环 10 / 11\n想看动态效果、AOD 和使用方法, 可以移步小红书 @叫我Brin就好",
     "preview": [
       "media/03-预览-电量心率蓝牙.png",
       "media/04-预览-亮屏动画.png",
