@@ -1,2 +1,2 @@
 # astrobox-resource-979872911720
-AstroBox resource of EVA BATTERY
+AstroBox resource of BATTERY DRIVE
