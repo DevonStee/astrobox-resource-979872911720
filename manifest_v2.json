@@ -3,7 +3,7 @@
     "id": "979872911720",
     "restype": "watchface",
     "name": "BATTERY DRIVE",
-    "description": "BATTERY DRIVE_电池驱动_橙黑警示\n橙黑数码管的电池控制台, 点一下内部外部能换成蓝色, 自取.\n目前支持小米手环 10 / 11 / 9 Pro / 10 Pro\n想看动态效果、AOD 和使用方法, 可以移步小红书 @叫我Brin就好",
+    "description": "BATTERY DRIVE_电池驱动_橙黑警示\n橙黑数码管的电池控制台, 点一下内部外部能换成蓝色, 现在新更新了蓝色界面for去掉开屏动画, \n用内部和外部的方法区分, 按钮不是很好点击, for控制误触\n目前支持小米手环 10 / 11 / 9 Pro / 10 Pro\n想看动态效果、AOD 和使用方法, 可以移步小红书 @叫我Brin就好\n\nBattery Drive_Orange Black Warning\nOrange black digital tube battery console, tap to switch between internal and external to blue, now updated with a blue interface to remove the splash animation, distinguish between internal and external methods, buttons are not easy to click, for preventing accidental touches\nCurrently supports Xiaomi Band 10 / 11 / 9 Pro / 10 Pro\nTo see dynamic effects, AOD, and usage methods, check out Xiaohongshu @叫我Brin就好",
     "preview": [
       "media/00-动图-点按切换.webp",
       "media/00-预览-Pro与手环10.png",
